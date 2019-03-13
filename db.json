@@ -1,0 +1,82 @@
+[
+{
+"County": "HUMBOLDT",
+"PRadarID": "P15E182C",
+"APN": "304-091-021-000",
+"Address": "421 ZANONE RD",
+"PropertyKey": 507785806,
+"UpdatedOn": "2019-03-04T15:08:08"
+},
+{
+"County": "MARICOPA",
+"PRadarID": "P226314D",
+"APN": "213-11-111-",
+"Address": "2825 E HONONEGH DR",
+"PropertyKey": 518178530,
+"UpdatedOn": "2019-02-04T05:37:24"
+},
+{
+"County": "CLARK",
+"PRadarID": "P243CDC9",
+"APN": "161-09-613-036",
+"Address": "2850 CANONERO ST",
+"PropertyKey": 502133631,
+"UpdatedOn": "2019-02-01T15:23:59"
+},
+{
+"County": "CLARK",
+"PRadarID": "P2482081",
+"APN": "140-17-611-005",
+"Address": "NONE",
+"PropertyKey": 502124008,
+"UpdatedOn": "2019-02-01T14:48:28"
+},
+{
+"County": "CARSON CITY CITY",
+"PRadarID": "P23FE018",
+"APN": "010-422-03",
+"Address": "3179 MINONEE LN",
+"PropertyKey": 502016090,
+"UpdatedOn": "2019-02-01T12:21:43"
+},
+{
+"County": "CLARK",
+"PRadarID": "P24352C1",
+"APN": "161-09-613-056",
+"Address": "2789 CANONERO ST",
+"PropertyKey": 501828494,
+"UpdatedOn": "2019-02-01T11:10:09"
+},
+{
+"County": "CARSON CITY CITY",
+"PRadarID": "P23FDC90",
+"APN": "010-421-05",
+"Address": "3138 MINONEE LN",
+"PropertyKey": 501719800,
+"UpdatedOn": "2019-01-31T16:52:08"
+},
+{
+"County": "LOS ANGELES",
+"PRadarID": "P1693E92",
+"APN": "2808-009-001",
+"Address": "22297 CANONES CIR",
+"PropertyKey": 509531221,
+"UpdatedOn": "2019-01-31T06:40:44"
+},
+{
+"County": "KERN",
+"PRadarID": "P1441272",
+"APN": "361-102-05",
+"Address": "7100 MIGNONETTE ST",
+"PropertyKey": 520552455,
+"UpdatedOn": "2019-01-30T20:22:36"
+},
+{
+"County": "CARSON CITY CITY",
+"PRadarID": "P24010AA",
+"APN": "010-421-11",
+"Address": "3186 MINONEE LN",
+"PropertyKey": 514782640,
+"UpdatedOn": "2019-01-30T06:51:02"
+}
+]

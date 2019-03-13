@@ -38,45 +38,5 @@
 "Address": "3179 MINONEE LN",
 "PropertyKey": 502016090,
 "UpdatedOn": "2019-02-01T12:21:43"
-},
-{
-"County": "CLARK",
-"PRadarID": "P24352C1",
-"APN": "161-09-613-056",
-"Address": "2789 CANONERO ST",
-"PropertyKey": 501828494,
-"UpdatedOn": "2019-02-01T11:10:09"
-},
-{
-"County": "CARSON CITY CITY",
-"PRadarID": "P23FDC90",
-"APN": "010-421-05",
-"Address": "3138 MINONEE LN",
-"PropertyKey": 501719800,
-"UpdatedOn": "2019-01-31T16:52:08"
-},
-{
-"County": "LOS ANGELES",
-"PRadarID": "P1693E92",
-"APN": "2808-009-001",
-"Address": "22297 CANONES CIR",
-"PropertyKey": 509531221,
-"UpdatedOn": "2019-01-31T06:40:44"
-},
-{
-"County": "KERN",
-"PRadarID": "P1441272",
-"APN": "361-102-05",
-"Address": "7100 MIGNONETTE ST",
-"PropertyKey": 520552455,
-"UpdatedOn": "2019-01-30T20:22:36"
-},
-{
-"County": "CARSON CITY CITY",
-"PRadarID": "P24010AA",
-"APN": "010-421-11",
-"Address": "3186 MINONEE LN",
-"PropertyKey": 514782640,
-"UpdatedOn": "2019-01-30T06:51:02"
 }
 ]
